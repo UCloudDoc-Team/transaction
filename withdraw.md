@@ -18,5 +18,5 @@
 ![image](/images/Payroll.png)
 
 ### 其他
-更多信息请参考 [提现规则]:https://cms.docs.ucloudadmin.com/transaction/withdrawregulation “提现规则”。
+更多信息请参考 [提现规则](https://cms.docs.ucloudadmin.com/transaction/withdrawregulation)。
 
