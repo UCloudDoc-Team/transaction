@@ -9,7 +9,7 @@
 ![image](/images/WithdrawMainPage.png)
 3. 点击提现按钮，输入提现金额，并验证操作权限。若您需要大额提现或非原路退回，请 [提交工单](https://accountv2.ucloud.cn/work_ticket)。
 ![image](/images/WithdrawIdentify.png)
-4. 选择对应的充值流水进行提现,默认先充值先提现。您也可以根据自己的需要，例如:指定到账账号,进行自由组合。每笔流水的可提现金额取决于您的历史提现和消费。
+4. 选择对应的充值流水进行提现,默认先充值先提现。您也可以根据自己的需要，例如:指定到账账号，进行自由组合。每笔流水的可提现金额取决于您的历史提现和消费。
 ![image](/images/DefaultAllocation.png)
 ![image](/images/CustomizedAllocation.png)
 5. 完成。您可以在提现主页查看进度。
