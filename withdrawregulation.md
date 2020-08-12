@@ -42,5 +42,5 @@
 
 ### 相关附件
 附件1. [授权书-提现声明](http://ubill-docs.cn-bj.ufileos.com/%E9%99%84%E4%BB%B61%E6%8E%88%E6%9D%83%E4%B9%A6-%E6%8F%90%E7%8E%B0%E5%A3%B0%E6%98%8E.docx) <br>
-附件2. 发票拒收情况说明（已认证版）<br>
-附件3. 发票拒收情况说明（未认证版）<br>
+附件2. [发票拒收情况说明（已认证版）](http://ubill-docs.cn-bj.ufileos.com/%E9%99%84%E4%BB%B62%E5%8F%91%E7%A5%A8%E6%8B%92%E6%94%B6%E6%83%85%E5%86%B5%E8%AF%B4%E6%98%8E%EF%BC%88%E5%B7%B2%E8%AE%A4%E8%AF%81%E7%89%88%EF%BC%89.docx) <br>
+附件3. [发票拒收情况说明（未认证版）](http://ubill-docs.cn-bj.ufileos.com/%E9%99%84%E4%BB%B63%E5%8F%91%E7%A5%A8%E6%8B%92%E6%94%B6%E6%83%85%E5%86%B5%E8%AF%B4%E6%98%8E%EF%BC%88%E6%9C%AA%E8%AE%A4%E8%AF%81%E7%89%88%EF%BC%89.docx) <br>
