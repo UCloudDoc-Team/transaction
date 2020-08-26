@@ -1,4 +1,4 @@
-# 账户提现 <sup>即将上线</sup>
+# 账户提现
 
 若您后续不再购买或计划终止使用UCloud服务，平台支持通过提现的方式将账户余额返回至您的原付款账号。
 
@@ -18,5 +18,5 @@
 ![image](/images/Payroll.png)
 
 ### 其他
-更多信息请参考 [提现规则](https://cms.docs.ucloudadmin.com/transaction/withdrawregulation)。
+更多信息请参考 [提现规则](https://docs.ucloud.cn/transaction/withdrawregulation)。
 
